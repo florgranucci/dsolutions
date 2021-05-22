@@ -20,13 +20,13 @@
 Clonar el proyecto
 
 ```bash
-  git clone https://github.com/florgranucci/md-dsolutions.git
+  git clone https://github.com/florgranucci/dsolutions.git
 ```
 
 Ubicarse dentro de la carpeta del mismo
 
 ```bash
-  cd md-dsolutions
+  cd dsolutions
 ```
 Ubicarse dentro de la carpeta llamada ```solicitud_4```
 
