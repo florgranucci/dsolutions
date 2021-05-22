@@ -11,7 +11,7 @@
 
 #### Solicitud 3:
  - Crear y maquetar el diseño suministrado. Al dar click en el play, reproducir un video en un modal.
- - 
+ 
 #### Solicitud 4:
  - Consumir un servicio gratuito de datos (Rest Api - GET), para listar informacion, en una tabla con diseño similiar a la solicitada en R2.
 
