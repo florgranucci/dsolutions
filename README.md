@@ -8,20 +8,12 @@
 
 #### Solicitud 2:
  - Crear y maquetar una tabla de datos, responsive mobile, tablet y web, en este ejemplo solo se utilizó html y css.
- <br>
- ![solicitud-uno](https://i.ibb.co/2N950t3/solicitud-uno.png)
-  
+
 #### Solicitud 3:
  - Crear y maquetar el diseño suministrado. Al dar click en el play, reproducir un video en un modal.
- <br>
- ![solicitud-dos-uno](https://i.ibb.co/F3Yd49c/card-1.png)
- ![solicitud-dos-dos](https://i.ibb.co/xLKgV6k/card-2.png)
-
+ - 
 #### Solicitud 4:
  - Consumir un servicio gratuito de datos (Rest Api - GET), para listar informacion, en una tabla con diseño similiar a la solicitada en R2.
- <br>
- ![solicitud-dos-dos](https://i.ibb.co/VQJ9Rbm/solicitud-tres.png)
-
 
 ## Levantar el proyecto
 
@@ -55,3 +47,10 @@ Iniciar el server
 ```
 
 Para las otras dos carpetas no hace falta instalar ninguna dependencia, se abre directamente el html en el browser por defecto.
+
+## Screenshots
+
+![solicitud-uno](https://i.ibb.co/2N950t3/solicitud-uno.png)
+![solicitud-dos-uno](https://i.ibb.co/F3Yd49c/card-1.png)
+![solicitud-dos-dos](https://i.ibb.co/xLKgV6k/card-2.png)
+![solicitud-dos-dos](https://i.ibb.co/VQJ9Rbm/solicitud-tres.png)
