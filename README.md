@@ -48,9 +48,3 @@ Iniciar el server
 
 Para las otras dos carpetas no hace falta instalar ninguna dependencia, se abre directamente el html en el browser por defecto.
 
-## Screenshots
-
-![solicitud-uno](https://i.ibb.co/2N950t3/solicitud-uno.png)
-![solicitud-dos-uno](https://i.ibb.co/F3Yd49c/card-1.png)
-![solicitud-dos-dos](https://i.ibb.co/xLKgV6k/card-2.png)
-![solicitud-dos-dos](https://i.ibb.co/VQJ9Rbm/solicitud-tres.png)
